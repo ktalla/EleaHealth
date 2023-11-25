@@ -1,4 +1,5 @@
 # Elea Health
+## Try it out here: https://eleahealth.glitch.me/
 
 ## Inspiration + Story
 My family is from rural India where there is a huge stigma for women to discuss reproductive health and menstraution. My cousins would hide their problems and feel discouraged to seek out the help they need. My group and I were inspired by a statistic we discovered which stated that 23 women drop out of school due to poor menstruation management. Many times the reluctance of women to seek a medical professional can lead to the health issue or problem worsening. Furthermore, in many developing countries, women do not always have access to adequate education about women’s health. We wanted to build a website to include important statistics to raise awareness about this issue and to allow users to take a quiz to check for common symptoms before being referred to a medical professional. For our logo, we wanted to show the unity between women. This is why we included a joint hand logo holding a heart to represent the need for change. We also named our company Elea after the Greek goddess of healing.
