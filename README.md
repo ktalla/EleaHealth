@@ -1,4 +1,4 @@
-# Elea Health
+# Elea Health - Won Runner-Up in Health in HacksRU (Rutgers University Hackathon)
 ## Try it out here: https://eleahealth.glitch.me/
 
 ## Inspiration + Story
